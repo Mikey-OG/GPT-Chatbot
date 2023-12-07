@@ -6,7 +6,7 @@
   "author": "Mayooear<twitter:@mayowaoshin>",
   "type": "module",
   "scripts": {
-    "dev": "SET NODE_ENV=development&& next dev",
+    "dev": "next dev",
     "build": "next build",
     "start": "next start",
     "type-check": "tsc --noEmit",
