@@ -7,7 +7,7 @@
   "type": "module",
   "scripts": {
     "dev": "SET NODE_ENV=development&& next dev",
-    "build": "SET NODE_ENV=development&& next build",
+    "build": "next build",
     "start": "next start",
     "type-check": "tsc --noEmit",
     "lint": "eslint --ignore-path .gitignore \"**/*.+(ts|js|tsx)\"",
